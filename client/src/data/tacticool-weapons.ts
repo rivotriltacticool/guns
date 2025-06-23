@@ -2711,12 +2711,12 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
     },
     {
       id: 147,
-      name: "MRA3-6",
+      name: "MLG99",
       category: "Prototypes",
       primary: "ARMA EXPERIMENTAL: PROTOTYPE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/MRA3-6.png",
+      image: "/weapons/MLG99.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "1567" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2068" },
@@ -2730,12 +2730,12 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
     },
     {
       id: 148,
-      name: "SO TOXIC",
+      name: "SMS41",
       category: "Prototypes",
       primary: "ARMA EXPERIMENTAL: PROTOTYPE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/So Toxic.png",
+      image: "/weapons/SMS41.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "1614" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2068" },
@@ -2749,12 +2749,12 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
     },
     {
       id: 149,
-      name: "ROACH",
+      name: "KAPITZ-A",
       category: "Prototypes",
       primary: "ARMA EXPERIMENTAL: PROTOTYPE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Roach.png",
+      image: "/weapons/Kapitz-A.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "11844" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2068" },
@@ -2766,12 +2766,12 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
     },
     {
       id: 150,
-      name: "GRIMER",
+      name: "1S1K",
       category: "Prototypes",
       primary: "ARMA EXPERIMENTAL: PROTOTYPE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Grimer.png",
+      image: "/weapons/1S1K.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "12201" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2068" },
@@ -2801,12 +2801,48 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
     },
     {
       id: 152,
-      name: "DRAGON WRATH",
+      name: "FAT BOY",
       category: "Prototypes",
       primary: "ARMA EXPERIMENTAL: PROTOTYPE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Dragon Wrath.png",
+      image: "/weapons/FatBoy.svg",
+      stats: [
+        { icon: "fas fa-burn", label: "Dano", value: "8275" },
+        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2067" },
+        { icon: "fas fa-bolt", label: "Munição", value: "2" },
+        { icon: "fas fa-tachometer-alt", label: "Cadência de Tiro", value: "81" },
+        { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "17" },
+        { icon: "fas fa-running", label: "Velocidade", value: "84" },
+        { icon: "fas fa-sync-alt", label: "Recarga", value: "1.7" }
+      ]
+    },
+    {
+      id: 153,
+      name: "GRAVIZAPA",
+      category: "Prototypes",
+      primary: "ARMA EXPERIMENTAL: PROTOTYPE",
+      rarity: "Épico",
+      stars: 5,
+      image: "/weapons/Gravizapa.svg",
+      stats: [
+        { icon: "fas fa-burn", label: "Dano", value: "8275" },
+        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2067" },
+        { icon: "fas fa-bolt", label: "Munição", value: "2" },
+        { icon: "fas fa-tachometer-alt", label: "Cadência de Tiro", value: "81" },
+        { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "17" },
+        { icon: "fas fa-running", label: "Velocidade", value: "84" },
+        { icon: "fas fa-sync-alt", label: "Recarga", value: "1.7" }
+      ]
+    },
+    {
+      id: 154,
+      name: "REIGN OF FIRE",
+      category: "Prototypes",
+      primary: "ARMA EXPERIMENTAL: PROTOTYPE",
+      rarity: "Épico",
+      stars: 5,
+      image: "/weapons/ReignOfFire.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "11487" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2068" },
