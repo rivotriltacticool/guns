@@ -2698,7 +2698,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA EXPERIMENTAL: PROTOTYPE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Tamm.png",
+      image: "/weapons/Tamm.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "8798" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2067" },
