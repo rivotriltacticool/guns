@@ -2718,14 +2718,14 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       stars: 5,
       image: "/weapons/MLG99.svg",
       stats: [
-        { icon: "fas fa-burn", label: "Dano", value: "1567" },
-        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2068" },
-        { icon: "fas fa-bolt", label: "Munição", value: "10" },
-        { icon: "fas fa-tachometer-alt", label: "Cadência de Tiro", value: "300" },
-        { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "13" },
+        { icon: "fas fa-burn", label: "Dano", value: "14000" },
+        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "930" },
+        { icon: "fas fa-bolt", label: "Munição", value: "6" },
+        { icon: "fas fa-tachometer-alt", label: "Cadência de Tiro", value: "190" },
+        { icon: "fas fa-ruler-horizontal", label: "Raio de Dano", value: "3.5" },
         { icon: "fas fa-running", label: "Velocidade", value: "90" },
-        { icon: "fas fa-fire", label: "Burn", value: "2059" },
-        { icon: "fas fa-gas-pump", label: "Fuel", value: "7020" }
+        { icon: "fas fa-sync-alt", label: "Regarga", value: "5.5" },
+        { icon: "fas fa-bullseye", label: "Precisão", value: "20" }
       ]
     },
     {
@@ -2737,14 +2737,13 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       stars: 5,
       image: "/weapons/SMS41.svg",
       stats: [
-        { icon: "fas fa-burn", label: "Dano", value: "1614" },
-        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2068" },
-        { icon: "fas fa-bolt", label: "Munição", value: "8" },
-        { icon: "fas fa-tachometer-alt", label: "Cadência de Tiro", value: "300" },
-        { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "13" },
-        { icon: "fas fa-running", label: "Velocidade", value: "88" },
-        { icon: "fas fa-fire", label: "Burn", value: "2112" },
-        { icon: "fas fa-gas-pump", label: "Fuel", value: "7200" }
+        { icon: "fas fa-burn", label: "Dano", value: "20000" },
+        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "930" },
+        { icon: "fas fa-bolt", label: "Munição", value: "1" },
+        { icon: "fas fa-tachometer-alt", label: "Cadência de Tiro", value: "60" },
+        { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "24.5" },
+        { icon: "fas fa-running", label: "Velocidade", value: "65" },
+        { icon: "fas fa-bullseye", label: "Precisão", value: "64-1000" }
       ]
     },
     {
@@ -2756,12 +2755,13 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       stars: 5,
       image: "/weapons/Kapitz-A.svg",
       stats: [
-        { icon: "fas fa-burn", label: "Dano", value: "11844" },
-        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2068" },
-        { icon: "fas fa-bolt", label: "Munição", value: "1" },
-        { icon: "fas fa-bullseye", label: "Precisão", value: "173" },
-        { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "10" },
-        { icon: "fas fa-running", label: "Velocidade", value: "90" }
+        { icon: "fas fa-burn", label: "Força de Pressão", value: "4000" },
+        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "930" },
+        { icon: "fas fa-bolt", label: "Tempo de Recarga", value: "2.5" },
+        { icon: "fas fa-ruler-horizontal", label: "Distancia da Tração", value: "13" },
+        { icon: "fas fa-ruler-horizontal", label: "Velocidade do Ativo", value: "45" },
+        { icon: "fas fa-ruler-horizontal", label: "Força de Tração", value: "1400" },
+        { icon: "fas fa-running", label: "Velocidade", value: "85" }
       ]
     },
     {
@@ -2773,12 +2773,13 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       stars: 5,
       image: "/weapons/1S1K.svg",
       stats: [
-        { icon: "fas fa-burn", label: "Dano", value: "12201" },
-        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2068" },
+        { icon: "fas fa-burn", label: "Dano", value: "20000" },
+        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "930" },
         { icon: "fas fa-bolt", label: "Munição", value: "1" },
-        { icon: "fas fa-bullseye", label: "Precisão", value: "173" },
-        { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "10" },
-        { icon: "fas fa-running", label: "Velocidade", value: "93" }
+        { icon: "fas fa-tachometer-alt", label: "Cadência de Tiro", value: "60" },
+        { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "23" },
+        { icon: "fas fa-running", label: "Velocidade", value: "70" },
+        { icon: "fas fa-bullseye", label: "Precisão", value: "64-1000" }
       ]
     },
     {
@@ -2808,13 +2809,14 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       stars: 5,
       image: "/weapons/FatBoy.svg",
       stats: [
-        { icon: "fas fa-burn", label: "Dano", value: "8275" },
-        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2067" },
-        { icon: "fas fa-bolt", label: "Munição", value: "2" },
-        { icon: "fas fa-tachometer-alt", label: "Cadência de Tiro", value: "81" },
-        { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "17" },
-        { icon: "fas fa-running", label: "Velocidade", value: "84" },
-        { icon: "fas fa-sync-alt", label: "Recarga", value: "1.7" }
+        { icon: "fas fa-burn", label: "Dano", value: "13580" },
+        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "930" },
+        { icon: "fas fa-bolt", label: "Munição", value: "7" },
+        { icon: "fas fa-tachometer-alt", label: "Cadência de Tiro", value: "180" },
+        { icon: "fas fa-ruler-horizontal", label: "Precisão", value: "20" },
+        { icon: "fas fa-running", label: "Velocidade", value: "92" },
+        { icon: "fas fa-running", label: "Raio de Dano", value: "3.5" },
+        { icon: "fas fa-sync-alt", label: "Recarga", value: "5.8" }
       ]
     },
     {
@@ -2826,13 +2828,13 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       stars: 5,
       image: "/weapons/Gravizapa.svg",
       stats: [
-        { icon: "fas fa-burn", label: "Dano", value: "8275" },
-        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2067" },
-        { icon: "fas fa-bolt", label: "Munição", value: "2" },
-        { icon: "fas fa-tachometer-alt", label: "Cadência de Tiro", value: "81" },
-        { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "17" },
-        { icon: "fas fa-running", label: "Velocidade", value: "84" },
-        { icon: "fas fa-sync-alt", label: "Recarga", value: "1.7" }
+        { icon: "fas fa-burn", label: "Força de Pressão", value: "4000" },
+        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "930" },
+        { icon: "fas fa-bolt", label: "Tempo de Recarga", value: "2.3" },
+        { icon: "fas fa-ruler-horizontal", label: "Distancia da Tração", value: "11" },
+        { icon: "fas fa-ruler-horizontal", label: "Velocidade do Ativo", value: "45" },
+        { icon: "fas fa-ruler-horizontal", label: "Força de Tração", value: "1400" },
+        { icon: "fas fa-running", label: "Velocidade", value: "85" }
       ]
     },
     {
@@ -2844,12 +2846,14 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       stars: 5,
       image: "/weapons/ReignOfFire.svg",
       stats: [
-        { icon: "fas fa-burn", label: "Dano", value: "11487" },
-        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2068" },
-        { icon: "fas fa-bolt", label: "Munição", value: "1" },
-        { icon: "fas fa-bullseye", label: "Precisão", value: "173" },
-        { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "10" },
-        { icon: "fas fa-running", label: "Velocidade", value: "87" }
+        { icon: "fas fa-burn", label: "Dano", value: "14000" },
+        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "930" },
+        { icon: "fas fa-bolt", label: "Munição", value: "6" },
+        { icon: "fas fa-tachometer-alt", label: "Cadência de Tiro", value: "200" },
+        { icon: "fas fa-ruler-horizontal", label: "Raio de Dano", value: "3.5" },
+        { icon: "fas fa-running", label: "Velocidade", value: "90" },
+        { icon: "fas fa-sync-alt", label: "Regarga", value: "5.8" },
+        { icon: "fas fa-bullseye", label: "Precisão", value: "20" }
       ]
     }
   ]
