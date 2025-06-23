@@ -2371,7 +2371,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/HeadCutter.svg",
+      image: "/weapons/Headcutter.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "3830" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "857" },
