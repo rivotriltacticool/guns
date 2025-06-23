@@ -2885,6 +2885,6 @@ export const weaponCategories = [
   { id: "Sniper Rifle", icon: "fas fa-bullseye", label: "Sniper Rifle" },
   { id: "Machine Gun", icon: "fas fa-fire", label: "Machine Gun" },
   { id: "Pistols", icon: "fas fa-circle", label: "Pistols" },
-  { id: "Melee", icon: "fas fa-sword", label: "Melee" },
+  { id: "Melee", icon: "fal fa-sword", label: "Melee" },
   { id: "Prototypes", icon: "fas fa-flask", label: "Prototypes" }
 ];
