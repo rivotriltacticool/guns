@@ -136,7 +136,7 @@ export default function WeaponStats() {
         
         {/* Título - Reduzido */}
         <h1 className="text-white text-2xl sm:text-3xl font-light text-center mb-3 px-3 font-roboto">
-          {translate("Max Weapon Stats with no Mods and Operators", "Estatísticas Máximas de Armas sem Operadores e sem Mods")}
+          {translate("Max Weapon Stats Without Mods or Operators", "Estatísticas Máximas de Armas sem Operadores e sem Mods")}
         </h1>
         
         <main className="flex flex-col lg:flex-row gap-4 px-3 flex-1 overflow-hidden">
