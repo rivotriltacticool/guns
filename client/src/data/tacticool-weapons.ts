@@ -2778,8 +2778,8 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "930" },
         { icon: "fas fa-bolt", label: "Tempo de Recarga", value: "2.5" },
         { icon: "fas fa-ruler-horizontal", label: "Distancia da Tração", value: "13" },
-        { icon: "fas fa-ruler-horizontal", label: "Velocidade do Ativo", value: "45" },
-        { icon: "fas fa-ruler-horizontal", label: "Força de Tração", value: "1400" },
+        { icon: "fas fa-ruler-meteor", label: "Velocidade do Ativo", value: "45" },
+        { icon: "fas fa-dumbbell", label: "Força de Tração", value: "1400" },
         { icon: "fas fa-running", label: "Velocidade", value: "85" }
       ]
     },
@@ -2851,8 +2851,8 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "930" },
         { icon: "fas fa-bolt", label: "Tempo de Recarga", value: "2.3" },
         { icon: "fas fa-ruler-horizontal", label: "Distancia da Tração", value: "11" },
-        { icon: "fas fa-ruler-horizontal", label: "Velocidade do Ativo", value: "45" },
-        { icon: "fas fa-ruler-horizontal", label: "Força de Tração", value: "1400" },
+        { icon: "fas fa-meteor", label: "Velocidade do Ativo", value: "45" },
+        { icon: "fas fa-dumbbell", label: "Força de Tração", value: "1400" },
         { icon: "fas fa-running", label: "Velocidade", value: "85" }
       ]
     },
