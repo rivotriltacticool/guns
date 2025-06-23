@@ -2242,7 +2242,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Splitjaw.png",
+      image: "/weapons/Splitjaw.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "6384" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "51" },
@@ -2257,7 +2257,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Strikepin.png",
+      image: "/weapons/Strikepin.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "3342" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "730" },
@@ -2275,7 +2275,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Comum",
       stars: 5,
-      image: "/weapons/Knell.png",
+      image: "/weapons/Knell.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "4751" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "48" },
@@ -2290,7 +2290,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Incomum",
       stars: 5,
-      image: "/weapons/Blackridge.png",
+      image: "/weapons/Blackridge.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "5664" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "48" },
@@ -2305,7 +2305,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Ziggy.png",
+      image: "/weapons/Ziggy.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "3755" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "857" },
@@ -2323,7 +2323,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Machete.png",
+      image: "/weapons/Machete.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "7510" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "48" },
@@ -2338,7 +2338,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Composite Slasher.png",
+      image: "/weapons/CompositeSlasher.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "3605" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "891" },
@@ -2356,7 +2356,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Shuangou.png",
+      image: "/weapons/Shuangou.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "7135" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "58" },
@@ -2371,7 +2371,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Head Cutter.png",
+      image: "/weapons/HeadCutter.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "3830" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "857" },
@@ -2389,7 +2389,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Candy Cane.png",
+      image: "/weapons/CandyCane.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "7285" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "52" },
@@ -2404,7 +2404,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Katana.png",
+      image: "/weapons/Katana.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "7360" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "56" },
@@ -2419,7 +2419,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Reaper.png",
+      image: "/weapons/Reaper.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "3530" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "910" },
@@ -2437,7 +2437,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Predator's Fang.png",
+      image: "/weapons/PredatorsFang.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "3830" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "857" },
@@ -2455,7 +2455,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Despair.png",
+      image: "/weapons/Despair.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "7210" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "52" },
@@ -2470,7 +2470,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Baton.png",
+      image: "/weapons/Baton.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "7510" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "45" },
@@ -2485,7 +2485,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/C-T.png",
+      image: "/weapons/C-T.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "4649" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1060" },
@@ -2503,7 +2503,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Cleaver.png",
+      image: "/weapons/Cleaver.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "8647" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "65" },
@@ -2518,7 +2518,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Trocky.png",
+      image: "/weapons/Trocky.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "5114" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "985" },
@@ -2536,7 +2536,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Armature.png",
+      image: "/weapons/Armature.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "9949" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "37" },
@@ -2551,11 +2551,11 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Throwing Knives.png",
+      image: "/weapons/ThrowingKnives.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "4649" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1060" },
-        { icon: "fas fa-bolt", label: "Munição", value: "8" },
+        { icon: "fas fa-bolt", label: "Munição", value: "2" },
         { icon: "fas fa-bullseye", label: "Precisão", value: "171-310" },
         { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "8.0" },
         { icon: "fas fa-running", label: "Velocidade", value: "97" },
@@ -2569,11 +2569,11 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Tactical Shovel.png",
+      image: "/weapons/TacticalShovel.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "4974" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1060" },
-        { icon: "fas fa-bolt", label: "Munição", value: "8" },
+        { icon: "fas fa-bolt", label: "Munição", value: "2" },
         { icon: "fas fa-bullseye", label: "Precisão", value: "171-310" },
         { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "8.6" },
         { icon: "fas fa-running", label: "Velocidade", value: "94" },
@@ -2587,7 +2587,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/E-Blade.png",
+      image: "/weapons/E-Blade.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "8740" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "60" },
@@ -2602,7 +2602,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Gentle Kiss.png",
+      image: "/weapons/GentleKiss.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "9484" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "44" },
@@ -2617,11 +2617,11 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Sempai.png",
+      image: "/weapons/Sempai.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "4510" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1028" },
-        { icon: "fas fa-bolt", label: "Munição", value: "8" },
+        { icon: "fas fa-bolt", label: "Munição", value: "2" },
         { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "7.5" },
         { icon: "fas fa-running", label: "Velocidade", value: "95" },
         { icon: "fas fa-sync-alt", label: "Recarga", value: "7.2" }
@@ -2634,7 +2634,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Survival Tool.png",
+      image: "/weapons/SurvivalTool.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "9763" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "42" },
@@ -2649,11 +2649,11 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Anchor.png",
+      image: "/weapons/Anchor.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "5346" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "955" },
-        { icon: "fas fa-bolt", label: "Munição", value: "8" },
+        { icon: "fas fa-bolt", label: "Munição", value: "2" },
         { icon: "fas fa-bullseye", label: "Precisão", value: "171-310" },
         { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "9.0" },
         { icon: "fas fa-running", label: "Velocidade", value: "94" },
@@ -2667,7 +2667,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Candy Cane Gold.png",
+      image: "/weapons/CandyCaneGold.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "8833" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "52" },
@@ -2682,11 +2682,11 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Horror.png",
+      image: "/weapons/Horror.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "4835" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1060" },
-        { icon: "fas fa-bolt", label: "Munição", value: "8" },
+        { icon: "fas fa-bolt", label: "Munição", value: "2" },
         { icon: "fas fa-bullseye", label: "Precisão", value: "171-310" },
         { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "7.7" },
         { icon: "fas fa-running", label: "Velocidade", value: "95" },
@@ -2700,7 +2700,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA CORPO A CORPO: MELEE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Hope.png",
+      image: "/weapons/Hope.svg",
       stats: [
         { icon: "fas fa-fist-raised", label: "Dano", value: "8833" },
         { icon: "fas fa-tachometer-alt", label: "Velocidade de Ataque", value: "55" },
