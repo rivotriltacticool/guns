@@ -2743,7 +2743,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
         { icon: "fas fa-tachometer-alt", label: "Cadência de Tiro", value: "190" },
         { icon: "fas fa-ruler-horizontal", label: "Raio de Dano", value: "3.5" },
         { icon: "fas fa-running", label: "Velocidade", value: "90" },
-        { icon: "fas fa-sync-alt", label: "Regarga", value: "5.5" },
+        { icon: "fas fa-sync-alt", label: "Recarga", value: "5.5" },
         { icon: "fas fa-bullseye", label: "Precisão", value: "20" }
       ]
     },
