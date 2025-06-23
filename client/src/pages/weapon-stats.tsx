@@ -317,6 +317,10 @@ export default function WeaponStats() {
                                       : stat.label === "Burn" ? "Burn"
                                       : stat.label === "Fuel" ? "Fuel"
                                       : stat.label === "Bleed" ? "Bleed"
+                                      : stat.label === "Força de Tração" ? "Pull Force"
+                                      : stat.label === "Velocidade do Ativo" ? "Active Movement Speed"
+                                      : stat.label === "Distancia da Tração" ? "Pull Distance"
+                                      : stat.label === "Raio de Dano" ? "Damage Radius"
                                       : stat.label
                                     : stat.label}
                                 </span>
