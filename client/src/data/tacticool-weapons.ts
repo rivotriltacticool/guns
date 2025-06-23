@@ -670,6 +670,25 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       ]
     },
     {
+      id: 156,
+      name: "MPM IRONHEAD",
+      category: "SMG",
+      primary: "ARMA PRIMÁRIA: SMG",
+      rarity: "Épico",
+      stars: 5,
+      image: "/weapons/MPMIRONHEAD.svg",
+      stats: [
+        { icon: "fas fa-burn", label: "Dano", value: "651" },
+        { icon: "fas fa-fist-raised", label: "Dano Melee", value: "6824" },
+        { icon: "fas fa-bolt", label: "Munição", value: "49" },
+        { icon: "fas fa-tachometer-alt", label: "Cadência de Tiro", value: "438" },
+        { icon: "fas fa-bullseye", label: "Precisão", value: "296" },
+        { icon: "fas fa-ruler-horizontal", label: "Alcance", value: "10.4" },
+        { icon: "fas fa-running", label: "Velocidade", value: "119" },
+        { icon: "fas fa-sync-alt", label: "Recarga", value: "3.1" }
+      ]
+    },
+    {
       id: 36,
       name: "DERF SQUIRT MASTER",
       category: "SMG",
@@ -2789,7 +2808,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA EXPERIMENTAL: PROTOTYPE",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Maxwell.png",
+      image: "/weapons/Maxwell.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "8275" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2067" },
