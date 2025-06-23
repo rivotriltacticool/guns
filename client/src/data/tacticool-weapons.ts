@@ -1424,7 +1424,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Grindcore.png",
+      image: "/weapons/Grindcore.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "376" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1096" },
@@ -1443,7 +1443,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Pillar-2.png",
+      image: "/weapons/Pillar-2.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "786" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1096" },
@@ -1462,7 +1462,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Comum",
       stars: 5,
-      image: "/weapons/NM-11.png",
+      image: "/weapons/NM-11.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "520" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "770" },
@@ -1481,7 +1481,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Incomum",
       stars: 5,
-      image: "/weapons/OHM-8.png",
+      image: "/weapons/OHM-8.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "690" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "964" },
@@ -1500,7 +1500,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Incomum",
       stars: 5,
-      image: "/weapons/M-TORQ.png",
+      image: "/weapons/M-TORQ.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "336" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "964" },
@@ -1519,7 +1519,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/MM66.png",
+      image: "/weapons/MM66.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "904" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1289" },
@@ -1538,7 +1538,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Goshan.png",
+      image: "/weapons/Goshan.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "467" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1289" },
@@ -1557,7 +1557,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/PRK.png",
+      image: "/weapons/PRK.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "904" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1289" },
@@ -1576,7 +1576,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Faulkner.png",
+      image: "/weapons/Faulkner.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "949" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1289" },
@@ -1595,7 +1595,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Raro",
       stars: 5,
-      image: "/weapons/Trigun.png",
+      image: "/weapons/Trigun.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "439" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1289" },
@@ -1614,7 +1614,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Polovec.png",
+      image: "/weapons/Polovec.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "1111" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1627" },
@@ -1633,7 +1633,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Rotogun.png",
+      image: "/weapons/Rotogun.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "574" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1627" },
@@ -1652,7 +1652,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/B-Five-One.png",
+      image: "/weapons/B-Five-One.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "1065" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1627" },
@@ -1671,7 +1671,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Lost 8.png",
+      image: "/weapons/Lost8.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "591" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1627" },
@@ -1690,7 +1690,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Stopper.png",
+      image: "/weapons/Stopper.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "1179" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1627" },
@@ -1709,7 +1709,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Vanisher.png",
+      image: "/weapons/Vanisher.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "557" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1627" },
@@ -1728,7 +1728,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Maximus.png",
+      image: "/weapons/Maximus.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "1145" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1627" },
@@ -1747,7 +1747,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Scorcher.png",
+      image: "/weapons/Scorcher.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "603" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1627" },
@@ -1766,7 +1766,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA PRIMÁRIA: MACHINE GUN",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/XO-300.png",
+      image: "/weapons/XO-300.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "577" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "1627" },
@@ -1824,7 +1824,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA SECUNDÁRIA: PISTOL",
       rarity: "Comum",
       stars: 5,
-      image: "/weapons/CXZ-75.svg",
+      image: "/weapons/CXZ75.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "426" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "988" },
@@ -2012,7 +2012,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA SECUNDÁRIA: PISTOL",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Mack.svg",
+      image: "/weapons/MACK.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "441" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2067" },
@@ -2069,7 +2069,7 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
       primary: "ARMA SECUNDÁRIA: PISTOL",
       rarity: "Épico",
       stars: 5,
-      image: "/weapons/Headhopper.svg",
+      image: "/weapons/HeadHopper.svg",
       stats: [
         { icon: "fas fa-burn", label: "Dano", value: "861" },
         { icon: "fas fa-fist-raised", label: "Dano Melee", value: "2067" },
