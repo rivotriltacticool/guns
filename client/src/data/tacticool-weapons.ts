@@ -2881,10 +2881,10 @@ export const tacticoolWeapons: Record<string, Weapon[]> = {
 export const weaponCategories = [
   { id: "Assault Rifle", icon: "fas fa-crosshairs", label: "Assault Rifle" },
   { id: "SMG", icon: "fas fa-bolt", label: "SMG" },
-  { id: "Shotgun", icon: "fas fa-bomb", label: "Shotgun" },
+  { id: "Shotgun", icon: "fa-regular fa-burst", label: "Shotgun" },
   { id: "Sniper Rifle", icon: "fas fa-bullseye", label: "Sniper Rifle" },
   { id: "Machine Gun", icon: "fas fa-fire", label: "Machine Gun" },
-  { id: "Pistols", icon: "fas fa-circle", label: "Pistols" },
-  { id: "Melee", icon: "fal fa-sword", label: "Melee" },
+  { id: "Pistols", icon: "fas fa-gun", label: "Pistols" },
+  { id: "Melee", icon: "fas fa-hammer", label: "Melee" },
   { id: "Prototypes", icon: "fas fa-flask", label: "Prototypes" }
 ];
